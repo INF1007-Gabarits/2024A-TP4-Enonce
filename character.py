@@ -32,7 +32,7 @@ class Character(ABC):
         # TODO: Vérifier si l'arme a assez de durabilité pour attaquer
         pass
 
-    # TODO: Ajouter une méthode abstraite pour réinitialiser le personnage
+    # TODO: Ajouter une méthode abstraite 'reset' pour réinitialiser le personnage
     # TODO: Cette méthode a pour but d'appeller le constructuer afin de "réinitialiser" le personnage
     """
     Méthode pour réinitialiser le personnage
@@ -42,7 +42,7 @@ class Character(ABC):
     """
     
 
-    # TODO: Ajouter une méthode abstraite pour afficher un message personnalisé pour chaque type de personnage
+    # TODO: Ajouter une méthode abstraite 'say_hello' pour afficher un message personnalisé pour chaque type de personnage
     """
     Méthode pour afficher un message personnalisé pour chaque type de personnage
 
