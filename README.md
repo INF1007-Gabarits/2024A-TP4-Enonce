@@ -20,6 +20,18 @@ Ce travail pratique vise à développer un système de simulation de combats ent
 
 Vous devez compléter les fichiers fournis en implémentant les méthodes manquantes selon les indications. Les parties à compléter sont marquées avec des commentaires `# TODO`.
 
+Les différentes classes de ce travail intéragissent entre elles, il n'est donc pas possible de compléter les fichiers dans l'ordre. Il faudra donc essayer de naviguer dans les différents fichiers et les remplir petit à petit.
+
+Voici deux diagrammes qui devraient vous aider pour ce travail :
+
+#### Diagramme de dépendances
+
+![Diagramme de dépendance](./images/packages_TP4-INF1007.png)
+
+#### Diagramme de classes
+
+![Diagramme de classes](./images/classes_TP4-INF1007.png)
+
 ### Détails des parties :
 
 #### Partie 1 : Création des personnages
